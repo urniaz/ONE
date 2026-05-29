@@ -1,5 +1,7 @@
 # BioTesseract™ ONE
 
+**Rafal Urniaz, PhD PharmSci** [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0192--2165-A6CE39?logo=orcid&logoColor=FFFFFF)](https://orcid.org/0000-0003-0192-2165)
+
 The **BioTesseract™ ONE** is scientific software dedicated to structural bioinfiormatics, data visualization and sequence analysis. It was created and developed by **Dr Rafal Urniaz**. 
 
 The project has been dropped and the source has been made public. 
