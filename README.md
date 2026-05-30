@@ -4,7 +4,7 @@
 
 The **BioTesseract™ ONE** is scientific software dedicated to structural bioinfiormatics, data visualization and sequence analysis. It was created and developed by **Dr Rafal Urniaz**. 
 
-The project has been dropped and the source has been made public. 
+The project has been dropped and the source has been made public.  
 
 # Main features
 * Small compounds, macromolecules and structure – ligand complexes visualization
